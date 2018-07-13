@@ -20,10 +20,12 @@
 package com.zyd.shiro.business.shiro.credentials;
 
 import com.zyd.shiro.util.PasswordUtil;
+import org.apache.shiro.authc.AccountException;
 import org.apache.shiro.authc.AuthenticationInfo;
 import org.apache.shiro.authc.AuthenticationToken;
 import org.apache.shiro.authc.UsernamePasswordToken;
 import org.apache.shiro.authc.credential.SimpleCredentialsMatcher;
+import org.springframework.data.redis.connection.Message;
 
 /**
  * Shiro-密码凭证匹配器（验证密码有效性）

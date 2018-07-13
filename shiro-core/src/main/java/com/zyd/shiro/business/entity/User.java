@@ -26,6 +26,7 @@ import com.zyd.shiro.persistence.beans.SysUser;
 import com.zyd.shiro.util.PasswordUtil;
 import org.springframework.util.StringUtils;
 
+import javax.security.auth.login.AccountException;
 import java.util.Date;
 
 /**

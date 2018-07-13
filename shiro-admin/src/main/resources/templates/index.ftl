@@ -20,6 +20,42 @@
                                 <li>
                                     <div class="block">
                                         <div class="tags">
+                                            <a href="javascript:;" class="tag"><span>06月30日</span></a>
+                                        </div>
+                                        <div class="block_content">
+                                            <h2 class="title"><span>大幅度更改2</span></h2>
+                                            <div class="byline"><span></span> by <a>花千</a></div>
+                                            <p class="excerpt">更改整个页面2----花千</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="block">
+                                        <div class="tags">
+                                            <a href="javascript:;" class="tag"><span>06月29日</span></a>
+                                        </div>
+                                        <div class="block_content">
+                                            <h2 class="title"><span>大幅度更改</span></h2>
+                                            <div class="byline"><span></span> by <a>花千</a></div>
+                                            <p class="excerpt">更改整个页面----花千</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="block">
+                                        <div class="tags">
+                                            <a href="javascript:;" class="tag"><span>06月28日</span></a>
+                                        </div>
+                                        <div class="block_content">
+                                            <h2 class="title"><span>自己添加设置</span></h2>
+                                            <div class="byline"><span></span> by <a>花千</a></div>
+                                            <p class="excerpt">自己尝试修改。----花千</p>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="block">
+                                        <div class="tags">
                                             <a href="javascript:;" class="tag"><span>05月17日</span></a>
                                         </div>
                                         <div class="block_content">

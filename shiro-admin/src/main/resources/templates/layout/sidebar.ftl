@@ -29,10 +29,24 @@
     </div>
 </div>
 <div class="sidebar-footer hidden-small">
-    <a >&nbsp;</a>
-    <a >&nbsp;</a>
-    <a >&nbsp;</a>
-    <a href="/passport/logout" data-toggle="tooltip" data-placement="top" title="" data-original-title="退出系统">
+    <!--用于确认退出-->
+    <script type="text/javascript">
+        function del() {
+            if(confirm("确定退出吗？"))
+            {
+                return true;
+            }
+            else{
+                return false;
+            }
+        }
+    </script>
+    <a >风格</a>
+    <a >主题</a>
+    <a >自定义</a>
+    <!--/passport/logout       "javascript:if(confirm('确定退出系统？')){window.close();}"-->
+    <a href="/passport/logout" data-toggle="tooltip" data-placement="top" title="" data-original-title="退出系统" onclick="return del();">
         <span class="glyphicon glyphicon-off" aria-hidden="true"></span>
+
     </a>
 </div>
